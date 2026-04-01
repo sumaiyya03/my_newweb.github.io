@@ -1,15 +1,10 @@
-# MoodNest 🌸
+# MoodNest Advanced 🌸
 
-A Pinterest-inspired aesthetic web app.
+Features:
+- Mood filter
+- Dark mode
+- Search bar UI
+- Multi-page structure
 
-## Features
-- Image grid layout
-- Hover animations
-- Clean UI
-
-## How to deploy
-1. Upload to GitHub
-2. Go to Settings → Pages
-3. Enable GitHub Pages
-
-Enjoy 🚀
+Deploy:
+Upload to GitHub and enable Pages.
